@@ -1,0 +1,9 @@
+flask
+pandas
+werkzeug
+flask_cors
+numpy
+opencv-python
+cython
+cmake
+dlib
